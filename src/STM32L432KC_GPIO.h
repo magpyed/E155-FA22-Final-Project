@@ -1,5 +1,6 @@
 // STM32L432KC_GPIO.h
 // Header for GPIO functions
+// Josh Brake (jbrake@hmc.edu)
 
 #ifndef STM32L4_GPIO_H
 #define STM32L4_GPIO_H
