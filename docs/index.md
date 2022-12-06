@@ -14,5 +14,5 @@ exclude: true
 # System Block Diagram
 
 <div style="text-align: left">
-  <img src="./assets/schematics/Block_Diagram.png" alt="block diagram" width="100" />
+  <img src="./assets/schematics/Block_Diagram.png" alt="block diagram" width="800" />
 </div>
