@@ -3,6 +3,8 @@
 // Unless stated otherwise, this implementation is pulled from 
 // ArtfulBytes' open source VL53L0X driver.
 // here is the specific webpage: www.artfulbytes.com/vl53l0x-post
+// Edits by Limnanthes Serafini (lserafini@hmc.edu)
+// and Noah Limpert (nlimpert@hmc.edu)
 
 #define REG_IDENTIFICATION_MODEL_ID (0xC0)
 #define REG_VHV_CONFIG_PAD_SCL_SDA_EXTSUP_HV (0x89)
