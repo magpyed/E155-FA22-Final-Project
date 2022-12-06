@@ -1,4 +1,9 @@
-# include "STM32L432KC_I2C.h"
+// STM32L432KC_I2C.c
+// Source code for I2C functions
+// Limnanthes Serafini & Noah Limpert
+// (lserafini@hmc.edu) & (nlimpert@hmc.edu)
+
+#include "STM32L432KC_I2C.h"
 
 void init_I2C() {
   
