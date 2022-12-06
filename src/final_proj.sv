@@ -1,3 +1,4 @@
+// final_proj.sv
 // MICRO Ps final project (FPGA Main File)
 // Limnanthes Serafini & Noah Limpert
 // (lserafini@hmc.edu) & (nlimpert@hmc.edu)
