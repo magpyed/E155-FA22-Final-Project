@@ -1,5 +1,6 @@
 // STM32F401RE_TIM.c
 // TIM functions
+// Josh Brake (jbrake@hmc.edu)
 
 #include "STM32L432KC_TIM.h"
 #include "STM32L432KC_RCC.h"
