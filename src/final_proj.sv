@@ -1,6 +1,6 @@
-///MICRO Ps final project
+// MICRO Ps final project (FPGA Main File)
 // Limnanthes Serafini & Noah Limpert
-// 
+// (lserafini@hmc.edu) & (nlimpert@hmc.edu)
 
 module fin_proj_top(
 	input logic reset,
