@@ -1,5 +1,6 @@
 // STM32F401RE_TIM.h
 // Header for TIM functions
+// Josh Brake (jbrake@hmc.edu)
 
 #ifndef STM32L4_TIM_H
 #define STM32L4_TIM_H
