@@ -10,7 +10,7 @@ permalink: /doc/
 # Source Code Overview
 <!-- This section should include information to describe the organization of the code base and highlight how the code connects. -->
 
-The source code for the project is located in a Github repository [here](https://github.com/joshbrake/example-project-portfolio/tree/main/src).
+The source code for the project is located in a Github repository [here](https://github.com/magpyed/E155-FA22-Final-Project/tree/main/src).
 
 # Bill of Materials
 <!-- The bill of materials should include all the parts used in your project along with the prices and links.  -->
@@ -21,4 +21,4 @@ The source code for the project is located in a Github repository [here](https:/
 | Adafruit Standard Servo TowerPro SG-5010 | 155 | 1 | $12.00 | [link](https://www.adafruit.com/product/155) |
 | Adafruit Micro Servo | 169 | 2 | $5.95 | [link](https://www.adafruit.com/product/169) |
 
-**Total cost: $14.95**
+**Total cost: $38.85**
