@@ -1,5 +1,6 @@
 // STM32L432KC_FLASH.c
 // Source code for FLASH functions
+// Josh Brake (jbrake@hmc.edu)
 
 #include "STM32L432KC_FLASH.h"
 
