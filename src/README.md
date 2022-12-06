@@ -1,4 +1,5 @@
 # README
+This folder contains the code for our project.
 
 ## FPGA Files
 ### final_proj.sv
