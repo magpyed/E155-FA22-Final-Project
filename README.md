@@ -1,3 +1,2 @@
 # E155-FA22-Final-Project
-Project portfolio by Limnanthes Serafini and Noah Limpert
-(lserafini@hmc.edu) and (nlimpert@hmc.edu)
+Project portfolio by Limnanthes Serafini (lserafini@hmc.edu) and Noah Limpert (nlimpert@hmc.edu)
