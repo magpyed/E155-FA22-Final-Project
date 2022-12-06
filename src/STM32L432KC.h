@@ -1,5 +1,8 @@
 // STM32L432KC.h
 // Header to include all other STM32L432KC libraries.
+// Josh Brake (jbrake@hmc.edu)
+// edits by Limnanthes Serafini (lserafini@hmc.edu)
+// and Noah Limpert (nlimpert@hmc.edu)
 
 #ifndef STM32L4_H
 #define STM32L4_H
@@ -18,6 +21,8 @@
 #include "STM32L432KC_FLASH.h"
 #include "STM32L432KC_USART.h"
 #include "STM32L432KC_SPI.h"
+
+// From Noah and Lim
 #include "STM32L432KC_I2C.h"
 #include "STM32L432KC_SERVO.h"
 
