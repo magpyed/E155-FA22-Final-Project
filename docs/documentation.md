@@ -7,6 +7,11 @@ permalink: /doc/
 # Schematics
 <!-- Include images of the schematics for your system. They should follow best practices for schematic drawings with all parts and pins clearly labeled. You may draw your schematics either with a software tool or neatly by hand. -->
 
+| Signal | SDA | SCL | Aiming PWM | Firing PWM | Gate PWM | done | crct pwd | incrct pwd | rows\[3:0\] | cols\[3:0\] | LEDs\[3:0\] | FSM reset |
+| ------ | --- | --- | -------- | ------ | -------- | ---- | -------- | -------- | ------- | ----------- | -------- | --- |
+| FPGA Pin | | | | | | P26 | P27 | P20 | P47, P10, P21, P11 | P19, P6, P4, P48 | P9, P18, P13, P12 | P43 |
+| MCU Pin | PA10 | PA9 | PA8 | PA2 (jumped to PB3) | PA6 | PA5 | PB5 | PA11 | | | | |
+
 # Source Code Overview
 <!-- This section should include information to describe the organization of the code base and highlight how the code connects. -->
 
