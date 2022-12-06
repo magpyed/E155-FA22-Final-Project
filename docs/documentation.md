@@ -18,5 +18,7 @@ The source code for the project is located in a Github repository [here](https:/
 | Item | Part Number | Quantity | Unit Price | Link |
 | ---- | ----------- | ----- | ---- | ---- |
 | Adafruit VL53L0X Time of Flight Distance Sensor |  3317 | 1 | $14.95 |  [link](https://www.adafruit.com/product/3317) |
+| Adafruit Standard Servo TowerPro SG-5010 | 155 | 1 | $12.00 | [link](https://www.adafruit.com/product/155) |
+| Adafruit Micro Servo | 169 | 2 | $5.95 | [link](https://www.adafruit.com/product/169) |
 
 **Total cost: $14.95**
