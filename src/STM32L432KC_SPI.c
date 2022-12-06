@@ -1,5 +1,6 @@
 // STM32L432KC_SPI.c
 // Source code for SPI functions
+// Josh Brake (jbrake@hmc.edu)
 
 #include "STM32L432KC.h"
 #include "STM32L432KC_SPI.h"
