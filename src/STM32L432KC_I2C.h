@@ -1,3 +1,8 @@
+// STM32L432KC_I2C.h
+// Header for I2C functions
+// Limnanthes Serafini & Noah Limpert
+// (lserafini@hmc.edu) & (nlimpert@hmc.edu)
+
 #ifndef STM32L4_I2C_H
 #define STM32L4_I2C_H
 
