@@ -1,3 +1,8 @@
+// STM32L432KC_SERVO.h
+// Header for servo driver
+// Limnanthes Serafini & Noah Limpert
+// (lserafini@hmc.edu) & (nlimpert@hmc.edu)
+
 #ifndef STM32L4_SERVO_H
 #define STM32L4_SERVO_H
 
