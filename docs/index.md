@@ -8,11 +8,11 @@ exclude: true
 # Project Abstract
 
 
-<div style="text-align: left">
-  <img src="./assets/img/Logo.png" alt="logo" width="100" />
-</div>
-
 
 # Project Motivation
 
 # System Block Diagram
+
+<div style="text-align: left">
+  <img src="./assets/schematics/Block_Diagram.png" alt="block diagram" width="100" />
+</div>
