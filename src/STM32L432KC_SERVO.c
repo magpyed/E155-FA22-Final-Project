@@ -1,3 +1,7 @@
+// STM32L432_SERVO.c
+// Source code for servo driver
+// Limnanthes Serafini & Noah Limpert
+// (lserafini@hmc.edu) & (nlimpert@hmc.edu)
 
 #include <stm32l432xx.h>
 #include "STM32L432KC_GPIO.h"
