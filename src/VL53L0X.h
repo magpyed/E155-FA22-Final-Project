@@ -9,6 +9,8 @@
 // Unless stated otherwise, this implementation is pulled from 
 // ArtfulBytes' open source VL53L0X driver.
 // here is the specific webpage: www.artfulbytes.com/vl53l0x-post
+// Edits by Limnanthes Serafini (lserafini@hmc.edu)
+// and Noah Limpert (nlimpert@hmc.edu)
 
 #define VL53L0X_OUT_OF_RANGE (8190)
 
