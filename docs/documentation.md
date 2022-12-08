@@ -7,7 +7,7 @@ permalink: /doc/
 # Schematics
 
 <div style="text-align: left">
-  <img src="./assets/schematics/schematic_limvers.png" alt="schematic" width="800" />
+  <img src="../assets/schematics/schematic_limvers.png" alt="schematic" width="800" />
 </div>
 
 
