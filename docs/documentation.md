@@ -9,7 +9,7 @@ permalink: /doc/
 
 
 <div style="text-align: left">
-  <img src="./assets/schematics/schematic_limvers.png" alt="schematic" width="800" />
+  <img src="https://github.com/magpyed/E155-FA22-Final-Project/tree/main/docs/assets/schematics/schematic_limvers.png" alt="schematic" width="800" />
 </div>
 
 
