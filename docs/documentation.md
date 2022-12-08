@@ -9,11 +9,12 @@ permalink: /doc/
 
 
 <div style="text-align: left">
-  <img src="./assets/schematics/Schematic_final.png" alt="system schematic" width="800" />
+  <img src="./assets/schematics/Schematic_final.png" alt="schematic" width="800" />
 </div>
 
 
 ## Pinout
+
 | Signal | SDA | SCL | Aiming PWM | Firing PWM | Gate PWM | done | crct pwd | incrct pwd | rows\[3:0\] | cols\[3:0\] | LEDs\[3:0\] | FSM reset |
 | ------ | --- | --- | -------- | ------ | -------- | ---- | -------- | -------- | ------- | ----------- | -------- | --- |
 | FPGA Pin | | | | | | P26 | P27 | P20 | P47, P10, P21, P11 | P19, P6, P4, P48 | P9, P18, P13, P12 | P43 |
