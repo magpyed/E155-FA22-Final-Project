@@ -5,11 +5,9 @@ permalink: /doc/
 ---
 
 # Schematics
-<!-- Include images of the schematics for your system. They should follow best practices for schematic drawings with all parts and pins clearly labeled. You may draw your schematics either with a software tool or neatly by hand. -->
-
 
 <div style="text-align: left">
-  <img src="https://magpyed.github.io/E155-FA22-Final-Project/docs/assets/schematics/schematic_limvers.png" alt="schematic" width="800" />
+  <img src="./assets/schematics/schematic_limvers.png" alt="schematic" width="800" />
 </div>
 
 
