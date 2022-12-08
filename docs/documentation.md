@@ -9,7 +9,7 @@ permalink: /doc/
 
 
 <div style="text-align: left">
-  <img src="./assets/schematics/Schematic.png" alt="schematic" width="800" />
+  <img src="./assets/schematics/Schematic_final.png" alt="schematic" width="800" />
 </div>
 
 | Signal | SDA | SCL | Aiming PWM | Firing PWM | Gate PWM | done | crct pwd | incrct pwd | rows\[3:0\] | cols\[3:0\] | LEDs\[3:0\] | FSM reset |
